@@ -1,0 +1,27 @@
+body {
+    background-image: url(../img/loginbg.jpg);
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container {
+    margin-top: 200px;
+    width: 350px;
+}
+
+.card {
+    width: 350px;
+
+}
+.forminput {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.margin {
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+
+
